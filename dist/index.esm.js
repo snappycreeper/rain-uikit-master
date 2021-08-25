@@ -2038,7 +2038,7 @@ var links = [
         calloutClass: "rainbow",
     },
     {
-        label: "Info",
+        label: "InfoR",
         icon: "InfoIcon",
         items: [
             {
